@@ -1,0 +1,14 @@
+# Data Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# GUI and Model Export
+tkinter
+joblib
